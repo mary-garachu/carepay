@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="linkedin-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,0 L54,0 C59.5228475,-1.01453063e-15 64,4.4771525 64,10 L64,54 C64,59.5228475 59.5228475,64 54,64 L10,64 C4.4771525,64 6.76353751e-16,59.5228475 0,54 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z M19.2,54.4 L19.2,25.6 L9.6,25.6 L9.6,54.4 L19.2,54.4 Z M14.4,20.16 C17.6,20.16 20.16,17.6 20.16,14.4 C20.16,11.2 17.6,8.64 14.4,8.64 C11.2,8.64 8.64,11.2 8.64,14.4 C8.64,17.6 11.2,20.16 14.4,20.16 Z M54.4,54.4 L54.4,36.16 C54.4,30.08 49.28,24.96 43.2,24.96 C40.32,24.96 36.8,26.88 35.2,29.44 L35.2,25.6 L25.6,25.6 L25.6,54.4 L35.2,54.4 L35.2,37.44 C35.2,34.8801255 37.44,32.64 40,32.64 C42.56,32.64 44.8,34.8801255 44.8,37.44 L44.8,54.4 L54.4,54.4 Z" id="linkedin" fill="#9B9B9B" fill-rule="nonzero"></path>
+    </g>
+</svg>

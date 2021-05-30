@@ -1,0 +1,350 @@
+body {
+  margin: 0 auto;
+}
+.header {
+  display: flex;
+  background-color: #000000;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.nav-left img {
+  height: 40px;
+  padding-top: 10px;
+}
+.nav-right ul {
+  display: flex;
+  list-style: none;
+}
+
+.nav-right a {
+  text-decoration: none;
+  padding-right: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  color: #fff;
+}
+
+.home {
+  color: #6590dc !important;
+}
+.nav-right a:hover {
+  color: #333;
+}
+.hero {
+  background: url(./images/5cc32099a38f437476c39b1f_CP_home.jpg);
+  background-color: #101820;
+  margin-top: 0;
+  height: 70vh;
+  background-size: cover;
+  background-position: center;
+  padding-top: -50px;
+  display: flex;
+  justify-content: center;
+  padding: 0 150px;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 50px;
+}
+.hero-intro {
+  font-size: 30px;
+  color: #fff;
+}
+.hero-intro h2 {
+}
+
+.minihero img {
+  height: 20px;
+  padding-right: 20px;
+}
+.images {
+  margin-top: 160px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  background-color: rgba(0, 30, 53, 0.62);
+  padding: 5px 80px 10px 20px;
+}
+.image1 {
+  display: flex;
+  color: #fff;
+  align-items: center;
+}
+
+.images p {
+  padding-top: -15px;
+}
+.images h6 {
+  color: #fff;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.images h2 {
+  color: #fff;
+  font-size: 18px;
+  border: 1px solid #6590dc;
+  background-color: #6590dc;
+  border-radius: 20px;
+  text-align: center;
+  padding: 5px 50px;
+}
+.section2 {
+  padding: 30px 100px 0 300px;
+  font-family: "Montserrat", sans-serif;
+}
+.platform h2 {
+  font-size: 26px;
+}
+.platform p {
+  font-size: 15px;
+}
+.categories {
+  display: flex;
+  align-items: center;
+}
+.category2 img {
+  margin-top: -150px;
+}
+.categories h2 {
+  text-align: center;
+  color: #6590dc;
+}
+.categories p {
+  text-align: center;
+  font-size: 14px;
+}
+.section3 {
+  padding: 50px 100px 50px 300px;
+  background-image: linear-gradient(180deg, #f2f1f0, #f2f1f0);
+  margin-top: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.section3 h2 {
+  font-size: 28px;
+}
+.figures {
+  display: flex;
+  align-items: center;
+  border: 1px solid #6590dc;
+  border-radius: 15px;
+  padding: 30px 0 30px 30px;
+  background-color: #6590dc;
+  color: #fff;
+}
+.figure1 {
+  padding-right: 100px;
+}
+.img {
+  padding-left: 40px;
+  text-align: center;
+}
+.section4 {
+  background-image: url(./images/5cd164118ec34f42d1c4ae2a_infographic_ourplatform_def.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 120vh;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+.section4 h2 {
+  padding: 30px 100px 30px 300px;
+  font-size: 30px;
+}
+.section5 {
+  padding: 30px 100px 30px 300px;
+  font-family: "Montserrat", sans-serif;
+  background-image: linear-gradient(180deg, #f2f1f0, #f2f1f0);
+}
+.section5 h2 {
+  font-size: 30px;
+  padding-bottom: 30px;
+}
+.section5 p {
+  font-size: 14px;
+  padding-bottom: 30px;
+}
+.section5 p span {
+  font-weight: bold;
+}
+.section6 {
+  padding: 10px 100px 50px 300px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+.cards1 {
+  display: flex;
+}
+.card1 img {
+  height: 230px;
+  width: 450px;
+  padding-right: 25px;
+  border-radius: 10px 10px;
+  background-color: transparent;
+}
+.cards2 {
+  display: flex;
+}
+.card1 h2 {
+  margin-top: -100px;
+  color: #fff;
+  padding-left: 20px;
+}
+.card1 h6 {
+  color: #fff;
+  padding-bottom: 50px;
+  font-size: 14px;
+  padding-left: 20px;
+  margin-top: 0;
+}
+.logo img {
+  height: 50px;
+  width: 50px;
+  border: 0.5px solid;
+  padding: 0;
+  background-color: #fff;
+  margin-bottom: -60px;
+}
+.section7 {
+  padding: 20px 50px 50px 300px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  background-image: linear-gradient(180deg, #f2f1f0, #f2f1f0);
+}
+.keybenefits {
+  display: flex;
+}
+.section7 h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+.benefit1 {
+  display: flex;
+  padding-right: 30px;
+}
+.benefit1 img {
+  padding-right: 15px;
+  margin-top: 0;
+}
+.benefit h4 {
+  padding-bottom: 0;
+  padding-top: 40px;
+}
+.row1 {
+  display: flex;
+  margin-top: 50px;
+  font-family: "Montserrat", sans-serif;
+}
+.one img {
+  height: 280px;
+  width: 450px;
+  padding-right: 20px;
+  border-radius: 5px;
+}
+.one h2 {
+  margin-top: -250px;
+  color: #fff;
+  padding-left: 20px;
+}
+.one p {
+  color: #fff;
+  padding-left: 20px;
+  font-size: 14px;
+  margin-bottom: 60px;
+}
+.one a {
+  color: #fff;
+  margin-left: 50px;
+  text-decoration: none;
+  border: 1px solid #fff;
+  padding: 10px 45px;
+  border-radius: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.row2 {
+  display: flex;
+  margin-top: 50px;
+  font-family: "Montserrat", sans-serif;
+}
+.row3 {
+  display: flex;
+  margin-top: 50px;
+  font-family: "Montserrat", sans-serif;
+}
+.footer {
+  display: flex;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  align-items: center;
+  background-color: #101820;
+  color: #fff;
+  margin-top: 70px;
+  margin-left: -300px;
+  margin-right: -100px;
+  margin-bottom: -50px;
+  padding: 0 300px;
+}
+.footer h2 {
+  font-size: 16px;
+}
+.final {
+  display: flex;
+  list-style: none;
+}
+.sitemap ul {
+  list-style: none;
+  padding-left: 0;
+}
+.sitemap a {
+  color: #fff;
+}
+.sitemap img {
+  height: 30px;
+  padding-top: 10px;
+}
+.address ul {
+  list-style: none;
+  padding-left: 0;
+}
+.sitemap {
+  padding-right: 40px;
+}
+.address {
+  padding-right: 40px;
+}
+.address a {
+  color: #fff;
+}
+.news {
+  padding-right: 40px;
+}
+.sitemap h2 {
+  padding-top: 40px;
+}
+.address h2 {
+  padding-top: 40px;
+}
+.news h2 {
+  padding-top: 40px;
+}
+.careers h2 {
+  padding-top: 40px;
+}
+.footerlogo img {
+  height: 30px;
+  padding-top: 70px;
+  padding-bottom: 0;
+}
+.footerlogo p {
+  font-size: 12px;
+  color: #fff;
+}
+.footerlogo {
+  background-color: #101820;
+  margin-left: -300px;
+  margin-right: -100px;
+  margin-bottom: -50px;
+  padding: 10px 100px 0 300px;
+  font-family: "Montserrat", sans-serif;
+}

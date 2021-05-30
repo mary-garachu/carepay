@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icons/square-pin Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Artboard" transform="translate(-827.000000, -954.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Icons/square-pin-Copy" transform="translate(828.000000, 955.000000)">
+                <path d="M10.1158851,44.9981583 L0.731065439,63.2838727 L63.2965297,63.2838727 L53.91171,44.9981583 M53.3333334,21.3333333 C53.3333334,34.4990476 32,56.0000001 32,56.0000001 C32,56.0000001 10.6666666,34.4990476 10.6666666,21.3333333 C10.6666666,7.83238087 21.6899047,-1.14285855e-07 32,-1.14285855e-07 C42.3100953,-1.14285855e-07 53.3333334,7.83238087 53.3333334,21.3333333 Z M32,27.4285714 C35.3663071,27.4285714 38.0952381,24.6996404 38.0952381,21.3333333 C38.0952381,17.9670262 35.3663071,15.2380952 32,15.2380952 C28.6336929,15.2380952 25.9047619,17.9670262 25.9047619,21.3333333 C25.9047619,24.6996404 28.6336929,27.4285714 32,27.4285714 Z" id="square-pin"></path>
+            </g>
+        </g>
+    </g>
+</svg>
